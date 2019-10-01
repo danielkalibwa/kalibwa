@@ -1,0 +1,17 @@
+}
+
+.table-dark {
+  color: #fff;
+  background-color: #343a40;
+}
+
+.thead {
+    background-color:pink; 
+}
+#headings th {
+    padding:20px;
+}
+
+#data tr td {
+  padding-left: 20px;
+}
